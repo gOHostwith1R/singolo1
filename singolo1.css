@@ -139,18 +139,19 @@ body{
     margin-top: 66px;
     margin-left:40px;
     font-family: 'Lato', black;
-    font-size: 30px
+    font-size: 30px;
+    margin-top:59px;
  }
  .text{
      color:#767e9e;
-     padding-top: 32px;
-    /* padding-left: 40px;
-     padding-right: 40px;
-     padding-bottom: 55px;*/
      line-height: 30px;
      font-size: 18px;
      font-family: 'Lato',light;
-
+     margin-top: 0;
+     padding-top: 15px;
+     padding-bottom: 10 px;
+     padding-left: 40px;
+     padding-right: 40px;
  }
  .container-1,
  .container-2{
@@ -160,7 +161,7 @@ body{
      max-height: 281px;
      padding-left: 30px;
      padding-right: 30px;
-    
+
  }
 
  .first, 
